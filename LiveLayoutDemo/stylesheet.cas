@@ -1,0 +1,6 @@
+
+
+UIView.my-box {
+    cas_size: 150 60
+    cas_margin: 100 60 0 0
+}
